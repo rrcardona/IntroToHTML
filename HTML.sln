@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HTML", "..\..\WebSites\HTML\", "{D255C248-A4C2-42F5-AC50-332184AAFC9C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62109"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\HTML\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62109\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62109"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\HTML\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62109\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62109"
+		SlnRelativePath = "..\..\WebSites\HTML\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SecondPage", "..\..\WebSites\SecondPage\", "{A9D3323B-29A1-4F8D-A546-6EF2497E9550}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49397"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\SecondPage\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49397\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49397"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\SecondPage\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49397\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49397"
+		SlnRelativePath = "..\..\WebSites\SecondPage\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D255C248-A4C2-42F5-AC50-332184AAFC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D255C248-A4C2-42F5-AC50-332184AAFC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D3323B-29A1-4F8D-A546-6EF2497E9550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D3323B-29A1-4F8D-A546-6EF2497E9550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
